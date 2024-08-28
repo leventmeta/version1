@@ -1,0 +1,23 @@
+C:\Users\lawan\Belgeler\Desktop\WebApplication123\CoreLayer\bin\Debug\net6.0\CoreLayer.deps.json
+C:\Users\lawan\Belgeler\Desktop\WebApplication123\CoreLayer\bin\Debug\net6.0\CoreLayer.dll
+C:\Users\lawan\Belgeler\Desktop\WebApplication123\CoreLayer\bin\Debug\net6.0\CoreLayer.pdb
+C:\Users\lawan\Belgeler\Desktop\WebApplication123\CoreLayer\obj\Debug\net6.0\CoreLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lawan\Belgeler\Desktop\WebApplication123\CoreLayer\obj\Debug\net6.0\CoreLayer.AssemblyInfoInputs.cache
+C:\Users\lawan\Belgeler\Desktop\WebApplication123\CoreLayer\obj\Debug\net6.0\CoreLayer.AssemblyInfo.cs
+C:\Users\lawan\Belgeler\Desktop\WebApplication123\CoreLayer\obj\Debug\net6.0\CoreLayer.csproj.CoreCompileInputs.cache
+C:\Users\lawan\Belgeler\Desktop\WebApplication123\CoreLayer\obj\Debug\net6.0\CoreLayer.dll
+C:\Users\lawan\Belgeler\Desktop\WebApplication123\CoreLayer\obj\Debug\net6.0\refint\CoreLayer.dll
+C:\Users\lawan\Belgeler\Desktop\WebApplication123\CoreLayer\obj\Debug\net6.0\CoreLayer.pdb
+C:\Users\lawan\Belgeler\Desktop\WebApplication123\CoreLayer\obj\Debug\net6.0\ref\CoreLayer.dll
+C:\Users\Metafor Yazılım L\Desktop\asp_net1\CoreLayer\bin\Debug\net6.0\CoreLayer.deps.json
+C:\Users\Metafor Yazılım L\Desktop\asp_net1\CoreLayer\bin\Debug\net6.0\CoreLayer.dll
+C:\Users\Metafor Yazılım L\Desktop\asp_net1\CoreLayer\bin\Debug\net6.0\CoreLayer.pdb
+C:\Users\Metafor Yazılım L\Desktop\asp_net1\CoreLayer\obj\Debug\net6.0\CoreLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Metafor Yazılım L\Desktop\asp_net1\CoreLayer\obj\Debug\net6.0\CoreLayer.AssemblyInfoInputs.cache
+C:\Users\Metafor Yazılım L\Desktop\asp_net1\CoreLayer\obj\Debug\net6.0\CoreLayer.AssemblyInfo.cs
+C:\Users\Metafor Yazılım L\Desktop\asp_net1\CoreLayer\obj\Debug\net6.0\CoreLayer.csproj.CoreCompileInputs.cache
+C:\Users\Metafor Yazılım L\Desktop\asp_net1\CoreLayer\obj\Debug\net6.0\CoreLayer.sourcelink.json
+C:\Users\Metafor Yazılım L\Desktop\asp_net1\CoreLayer\obj\Debug\net6.0\CoreLayer.dll
+C:\Users\Metafor Yazılım L\Desktop\asp_net1\CoreLayer\obj\Debug\net6.0\refint\CoreLayer.dll
+C:\Users\Metafor Yazılım L\Desktop\asp_net1\CoreLayer\obj\Debug\net6.0\CoreLayer.pdb
+C:\Users\Metafor Yazılım L\Desktop\asp_net1\CoreLayer\obj\Debug\net6.0\ref\CoreLayer.dll

@@ -1,0 +1,15 @@
+﻿@model IEnumerable<WebApplication123.Models.CountryViewModel>
+
+<div class="form-row">
+	<div class="col-md-6 mb-3">
+		<label for="validationCustom02">Şehirler</label>
+		<select class="form-control" id="validationCustom02" name="SelectedCountry" required>
+			<option value="" disabled selected>Şehir seçin</option>
+			@foreach (var item in Model)
+			{
+				<option >@item.Name</option>
+			}
+		</select>
+	</div>
+</div>
+

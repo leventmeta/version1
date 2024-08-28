@@ -1,0 +1,32 @@
+﻿<div class="tech-btm">
+    <h4>Sign up to our newsletter</h4>
+    <p>Pellentesque dui, non felis. Maecenas male </p>
+    <form id="subscribeForm" method="post">
+        <input type="email" placeholder="Email" required="" name="Mail">
+        <input type="submit" value="Subscribe">
+    </form>
+    <div id="message"></div> <!-- AJAX yanıtı buraya gösterilecek -->
+</div>
+
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script>
+    $(document).ready(function () {
+        $('#subscribeForm').on('submit', function (event) {
+            event.preventDefault(); // Formun normal submit işlemini engeller
+
+            var formData = $(this).serialize(); // Form verilerini serialize eder
+
+            $.ajax({
+                url: '@Url.Action("SubscribeMail", "NewsLetter")', // Form verilerini göndereceğiniz action
+                type: 'POST',
+                data: formData,
+                success: function (response) {
+                    $('#message').html('<p>Subscription successful!</p>'); // Başarı mesajını göster
+                },
+                error: function () {
+                    $('#message').html('<p>An error occurred. Please try again.</p>'); // Hata mesajını göster
+                }
+            });
+        });
+    });
+</script>

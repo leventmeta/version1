@@ -1,0 +1,35 @@
+C:\Users\lawan\Belgeler\Desktop\WebApplication123\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.deps.json
+C:\Users\lawan\Belgeler\Desktop\WebApplication123\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.runtimeconfig.json
+C:\Users\lawan\Belgeler\Desktop\WebApplication123\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.dll
+C:\Users\lawan\Belgeler\Desktop\WebApplication123\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.pdb
+C:\Users\lawan\Belgeler\Desktop\WebApplication123\DataAccessLayer\bin\Debug\net6.0\EntityLayer.dll
+C:\Users\lawan\Belgeler\Desktop\WebApplication123\DataAccessLayer\bin\Debug\net6.0\EntityLayer.pdb
+C:\Users\lawan\Belgeler\Desktop\WebApplication123\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\lawan\Belgeler\Desktop\WebApplication123\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lawan\Belgeler\Desktop\WebApplication123\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\lawan\Belgeler\Desktop\WebApplication123\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.AssemblyInfo.cs
+C:\Users\lawan\Belgeler\Desktop\WebApplication123\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\lawan\Belgeler\Desktop\WebApplication123\DataAccessLayer\obj\Debug\net6.0\DataAcce.E67BD773.Up2Date
+C:\Users\lawan\Belgeler\Desktop\WebApplication123\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.dll
+C:\Users\lawan\Belgeler\Desktop\WebApplication123\DataAccessLayer\obj\Debug\net6.0\refint\DataAccessLayer.dll
+C:\Users\lawan\Belgeler\Desktop\WebApplication123\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.pdb
+C:\Users\lawan\Belgeler\Desktop\WebApplication123\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.genruntimeconfig.cache
+C:\Users\lawan\Belgeler\Desktop\WebApplication123\DataAccessLayer\obj\Debug\net6.0\ref\DataAccessLayer.dll
+C:\Users\Metafor Yazılım L\Desktop\asp_net1\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.deps.json
+C:\Users\Metafor Yazılım L\Desktop\asp_net1\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.runtimeconfig.json
+C:\Users\Metafor Yazılım L\Desktop\asp_net1\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.dll
+C:\Users\Metafor Yazılım L\Desktop\asp_net1\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.pdb
+C:\Users\Metafor Yazılım L\Desktop\asp_net1\DataAccessLayer\bin\Debug\net6.0\EntityLayer.dll
+C:\Users\Metafor Yazılım L\Desktop\asp_net1\DataAccessLayer\bin\Debug\net6.0\EntityLayer.pdb
+C:\Users\Metafor Yazılım L\Desktop\asp_net1\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\Metafor Yazılım L\Desktop\asp_net1\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Metafor Yazılım L\Desktop\asp_net1\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\Metafor Yazılım L\Desktop\asp_net1\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.AssemblyInfo.cs
+C:\Users\Metafor Yazılım L\Desktop\asp_net1\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Metafor Yazılım L\Desktop\asp_net1\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.sourcelink.json
+C:\Users\Metafor Yazılım L\Desktop\asp_net1\DataAccessLayer\obj\Debug\net6.0\DataAcce.E67BD773.Up2Date
+C:\Users\Metafor Yazılım L\Desktop\asp_net1\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.dll
+C:\Users\Metafor Yazılım L\Desktop\asp_net1\DataAccessLayer\obj\Debug\net6.0\refint\DataAccessLayer.dll
+C:\Users\Metafor Yazılım L\Desktop\asp_net1\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.pdb
+C:\Users\Metafor Yazılım L\Desktop\asp_net1\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.genruntimeconfig.cache
+C:\Users\Metafor Yazılım L\Desktop\asp_net1\DataAccessLayer\obj\Debug\net6.0\ref\DataAccessLayer.dll

@@ -1,0 +1,195 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Include="Client\.angular\cache\18.2.0\vite\deps\package.json" />
+    <Content Include="Client\.angular\cache\18.2.0\vite\deps\_metadata.json" />
+    <Content Include="Client\.vscode\extensions.json" />
+    <Content Include="Client\.vscode\launch.json" />
+    <Content Include="Client\.vscode\tasks.json" />
+    <Content Include="Client\node_modules\zone.js\package.json" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="FluentValidation" Version="11.9.2" />
+    <PackageReference Include="FluentValidation.AspNetCore" Version="11.3.0" />
+    <PackageReference Include="Microsoft.AspNet.Web.Optimization" Version="1.1.3" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="6.0.21">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="6.0.17" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\BusinessLayer\BusinessLayer.csproj" />
+    <ProjectReference Include="..\DataAccessLayer\DataAccessLayer.csproj" />
+    <ProjectReference Include="..\EntityLayer\EntityLayer.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Scripts\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="Client\.angular\cache\18.2.0\angular3\.tsbuildinfo" />
+    <None Include="Client\.angular\cache\18.2.0\angular3\angular-compiler.db" />
+    <None Include="Client\.angular\cache\18.2.0\angular3\angular-compiler.db-lock" />
+    <None Include="Client\.angular\cache\18.2.0\vite\deps\%40angular_core.js" />
+    <None Include="Client\.angular\cache\18.2.0\vite\deps\%40angular_core.js.map" />
+    <None Include="Client\.angular\cache\18.2.0\vite\deps\%40angular_platform-browser.js" />
+    <None Include="Client\.angular\cache\18.2.0\vite\deps\%40angular_platform-browser.js.map" />
+    <None Include="Client\.angular\cache\18.2.0\vite\deps\%40angular_router.js" />
+    <None Include="Client\.angular\cache\18.2.0\vite\deps\%40angular_router.js.map" />
+    <None Include="Client\.angular\cache\18.2.0\vite\deps\chunk-2WPYQJ2V.js" />
+    <None Include="Client\.angular\cache\18.2.0\vite\deps\chunk-2WPYQJ2V.js.map" />
+    <None Include="Client\.angular\cache\18.2.0\vite\deps\chunk-LRQ54M6E.js" />
+    <None Include="Client\.angular\cache\18.2.0\vite\deps\chunk-LRQ54M6E.js.map" />
+    <None Include="Client\node_modules\zone.js\bundles\async-test.umd.js" />
+    <None Include="Client\node_modules\zone.js\bundles\async-test.umd.min.js" />
+    <None Include="Client\node_modules\zone.js\bundles\fake-async-test.umd.js" />
+    <None Include="Client\node_modules\zone.js\bundles\fake-async-test.umd.min.js" />
+    <None Include="Client\node_modules\zone.js\bundles\jasmine-patch.umd.js" />
+    <None Include="Client\node_modules\zone.js\bundles\jasmine-patch.umd.min.js" />
+    <None Include="Client\node_modules\zone.js\bundles\long-stack-trace-zone.umd.js" />
+    <None Include="Client\node_modules\zone.js\bundles\long-stack-trace-zone.umd.min.js" />
+    <None Include="Client\node_modules\zone.js\bundles\mocha-patch.umd.js" />
+    <None Include="Client\node_modules\zone.js\bundles\mocha-patch.umd.min.js" />
+    <None Include="Client\node_modules\zone.js\bundles\proxy.umd.js" />
+    <None Include="Client\node_modules\zone.js\bundles\proxy.umd.min.js" />
+    <None Include="Client\node_modules\zone.js\bundles\sync-test.umd.js" />
+    <None Include="Client\node_modules\zone.js\bundles\sync-test.umd.min.js" />
+    <None Include="Client\node_modules\zone.js\bundles\task-tracking.umd.js" />
+    <None Include="Client\node_modules\zone.js\bundles\task-tracking.umd.min.js" />
+    <None Include="Client\node_modules\zone.js\bundles\webapis-media-query.umd.js" />
+    <None Include="Client\node_modules\zone.js\bundles\webapis-media-query.umd.min.js" />
+    <None Include="Client\node_modules\zone.js\bundles\webapis-notification.umd.js" />
+    <None Include="Client\node_modules\zone.js\bundles\webapis-notification.umd.min.js" />
+    <None Include="Client\node_modules\zone.js\bundles\webapis-rtc-peer-connection.umd.js" />
+    <None Include="Client\node_modules\zone.js\bundles\webapis-rtc-peer-connection.umd.min.js" />
+    <None Include="Client\node_modules\zone.js\bundles\webapis-shadydom.umd.js" />
+    <None Include="Client\node_modules\zone.js\bundles\webapis-shadydom.umd.min.js" />
+    <None Include="Client\node_modules\zone.js\bundles\wtf.umd.js" />
+    <None Include="Client\node_modules\zone.js\bundles\wtf.umd.min.js" />
+    <None Include="Client\node_modules\zone.js\bundles\zone-bluebird.umd.js" />
+    <None Include="Client\node_modules\zone.js\bundles\zone-bluebird.umd.min.js" />
+    <None Include="Client\node_modules\zone.js\bundles\zone-error.umd.js" />
+    <None Include="Client\node_modules\zone.js\bundles\zone-error.umd.min.js" />
+    <None Include="Client\node_modules\zone.js\bundles\zone-legacy.umd.js" />
+    <None Include="Client\node_modules\zone.js\bundles\zone-legacy.umd.min.js" />
+    <None Include="Client\node_modules\zone.js\bundles\zone-mix.umd.js" />
+    <None Include="Client\node_modules\zone.js\bundles\zone-mix.umd.min.js" />
+    <None Include="Client\node_modules\zone.js\bundles\zone-node.umd.js" />
+    <None Include="Client\node_modules\zone.js\bundles\zone-node.umd.min.js" />
+    <None Include="Client\node_modules\zone.js\bundles\zone-patch-canvas.umd.js" />
+    <None Include="Client\node_modules\zone.js\bundles\zone-patch-canvas.umd.min.js" />
+    <None Include="Client\node_modules\zone.js\bundles\zone-patch-cordova.umd.js" />
+    <None Include="Client\node_modules\zone.js\bundles\zone-patch-cordova.umd.min.js" />
+    <None Include="Client\node_modules\zone.js\bundles\zone-patch-electron.umd.js" />
+    <None Include="Client\node_modules\zone.js\bundles\zone-patch-electron.umd.min.js" />
+    <None Include="Client\node_modules\zone.js\bundles\zone-patch-fetch.umd.js" />
+    <None Include="Client\node_modules\zone.js\bundles\zone-patch-fetch.umd.min.js" />
+    <None Include="Client\node_modules\zone.js\bundles\zone-patch-jsonp.umd.js" />
+    <None Include="Client\node_modules\zone.js\bundles\zone-patch-jsonp.umd.min.js" />
+    <None Include="Client\node_modules\zone.js\bundles\zone-patch-message-port.umd.js" />
+    <None Include="Client\node_modules\zone.js\bundles\zone-patch-message-port.umd.min.js" />
+    <None Include="Client\node_modules\zone.js\bundles\zone-patch-promise-test.umd.js" />
+    <None Include="Client\node_modules\zone.js\bundles\zone-patch-promise-test.umd.min.js" />
+    <None Include="Client\node_modules\zone.js\bundles\zone-patch-resize-observer.umd.js" />
+    <None Include="Client\node_modules\zone.js\bundles\zone-patch-resize-observer.umd.min.js" />
+    <None Include="Client\node_modules\zone.js\bundles\zone-patch-rxjs-fake-async.umd.js" />
+    <None Include="Client\node_modules\zone.js\bundles\zone-patch-rxjs-fake-async.umd.min.js" />
+    <None Include="Client\node_modules\zone.js\bundles\zone-patch-rxjs.umd.js" />
+    <None Include="Client\node_modules\zone.js\bundles\zone-patch-rxjs.umd.min.js" />
+    <None Include="Client\node_modules\zone.js\bundles\zone-patch-socket-io.umd.js" />
+    <None Include="Client\node_modules\zone.js\bundles\zone-patch-socket-io.umd.min.js" />
+    <None Include="Client\node_modules\zone.js\bundles\zone-patch-user-media.umd.js" />
+    <None Include="Client\node_modules\zone.js\bundles\zone-patch-user-media.umd.min.js" />
+    <None Include="Client\node_modules\zone.js\bundles\zone-testing.umd.js" />
+    <None Include="Client\node_modules\zone.js\bundles\zone-testing.umd.min.js" />
+    <None Include="Client\node_modules\zone.js\bundles\zone.umd.js" />
+    <None Include="Client\node_modules\zone.js\bundles\zone.umd.min.js" />
+    <None Include="Client\node_modules\zone.js\CHANGELOG.md" />
+    <None Include="Client\node_modules\zone.js\fesm2015\async-test.js" />
+    <None Include="Client\node_modules\zone.js\fesm2015\async-test.min.js" />
+    <None Include="Client\node_modules\zone.js\fesm2015\fake-async-test.js" />
+    <None Include="Client\node_modules\zone.js\fesm2015\fake-async-test.min.js" />
+    <None Include="Client\node_modules\zone.js\fesm2015\jasmine-patch.js" />
+    <None Include="Client\node_modules\zone.js\fesm2015\jasmine-patch.min.js" />
+    <None Include="Client\node_modules\zone.js\fesm2015\long-stack-trace-zone.js" />
+    <None Include="Client\node_modules\zone.js\fesm2015\long-stack-trace-zone.min.js" />
+    <None Include="Client\node_modules\zone.js\fesm2015\mocha-patch.js" />
+    <None Include="Client\node_modules\zone.js\fesm2015\mocha-patch.min.js" />
+    <None Include="Client\node_modules\zone.js\fesm2015\proxy.js" />
+    <None Include="Client\node_modules\zone.js\fesm2015\proxy.min.js" />
+    <None Include="Client\node_modules\zone.js\fesm2015\sync-test.js" />
+    <None Include="Client\node_modules\zone.js\fesm2015\sync-test.min.js" />
+    <None Include="Client\node_modules\zone.js\fesm2015\task-tracking.js" />
+    <None Include="Client\node_modules\zone.js\fesm2015\task-tracking.min.js" />
+    <None Include="Client\node_modules\zone.js\fesm2015\webapis-media-query.js" />
+    <None Include="Client\node_modules\zone.js\fesm2015\webapis-media-query.min.js" />
+    <None Include="Client\node_modules\zone.js\fesm2015\webapis-notification.js" />
+    <None Include="Client\node_modules\zone.js\fesm2015\webapis-notification.min.js" />
+    <None Include="Client\node_modules\zone.js\fesm2015\webapis-rtc-peer-connection.js" />
+    <None Include="Client\node_modules\zone.js\fesm2015\webapis-rtc-peer-connection.min.js" />
+    <None Include="Client\node_modules\zone.js\fesm2015\webapis-shadydom.js" />
+    <None Include="Client\node_modules\zone.js\fesm2015\webapis-shadydom.min.js" />
+    <None Include="Client\node_modules\zone.js\fesm2015\wtf.js" />
+    <None Include="Client\node_modules\zone.js\fesm2015\wtf.min.js" />
+    <None Include="Client\node_modules\zone.js\fesm2015\zone-bluebird.js" />
+    <None Include="Client\node_modules\zone.js\fesm2015\zone-bluebird.min.js" />
+    <None Include="Client\node_modules\zone.js\fesm2015\zone-error.js" />
+    <None Include="Client\node_modules\zone.js\fesm2015\zone-error.min.js" />
+    <None Include="Client\node_modules\zone.js\fesm2015\zone-legacy.js" />
+    <None Include="Client\node_modules\zone.js\fesm2015\zone-legacy.min.js" />
+    <None Include="Client\node_modules\zone.js\fesm2015\zone-mix.js" />
+    <None Include="Client\node_modules\zone.js\fesm2015\zone-mix.min.js" />
+    <None Include="Client\node_modules\zone.js\fesm2015\zone-node.js" />
+    <None Include="Client\node_modules\zone.js\fesm2015\zone-node.min.js" />
+    <None Include="Client\node_modules\zone.js\fesm2015\zone-patch-canvas.js" />
+    <None Include="Client\node_modules\zone.js\fesm2015\zone-patch-canvas.min.js" />
+    <None Include="Client\node_modules\zone.js\fesm2015\zone-patch-cordova.js" />
+    <None Include="Client\node_modules\zone.js\fesm2015\zone-patch-cordova.min.js" />
+    <None Include="Client\node_modules\zone.js\fesm2015\zone-patch-electron.js" />
+    <None Include="Client\node_modules\zone.js\fesm2015\zone-patch-electron.min.js" />
+    <None Include="Client\node_modules\zone.js\fesm2015\zone-patch-fetch.js" />
+    <None Include="Client\node_modules\zone.js\fesm2015\zone-patch-fetch.min.js" />
+    <None Include="Client\node_modules\zone.js\fesm2015\zone-patch-jsonp.js" />
+    <None Include="Client\node_modules\zone.js\fesm2015\zone-patch-jsonp.min.js" />
+    <None Include="Client\node_modules\zone.js\fesm2015\zone-patch-message-port.js" />
+    <None Include="Client\node_modules\zone.js\fesm2015\zone-patch-message-port.min.js" />
+    <None Include="Client\node_modules\zone.js\fesm2015\zone-patch-promise-test.js" />
+    <None Include="Client\node_modules\zone.js\fesm2015\zone-patch-promise-test.min.js" />
+    <None Include="Client\node_modules\zone.js\fesm2015\zone-patch-resize-observer.js" />
+    <None Include="Client\node_modules\zone.js\fesm2015\zone-patch-resize-observer.min.js" />
+    <None Include="Client\node_modules\zone.js\fesm2015\zone-patch-rxjs-fake-async.js" />
+    <None Include="Client\node_modules\zone.js\fesm2015\zone-patch-rxjs-fake-async.min.js" />
+    <None Include="Client\node_modules\zone.js\fesm2015\zone-patch-rxjs.js" />
+    <None Include="Client\node_modules\zone.js\fesm2015\zone-patch-rxjs.min.js" />
+    <None Include="Client\node_modules\zone.js\fesm2015\zone-patch-socket-io.js" />
+    <None Include="Client\node_modules\zone.js\fesm2015\zone-patch-socket-io.min.js" />
+    <None Include="Client\node_modules\zone.js\fesm2015\zone-patch-user-media.js" />
+    <None Include="Client\node_modules\zone.js\fesm2015\zone-patch-user-media.min.js" />
+    <None Include="Client\node_modules\zone.js\fesm2015\zone-testing.js" />
+    <None Include="Client\node_modules\zone.js\fesm2015\zone-testing.min.js" />
+    <None Include="Client\node_modules\zone.js\fesm2015\zone.js" />
+    <None Include="Client\node_modules\zone.js\fesm2015\zone.min.js" />
+    <None Include="Client\node_modules\zone.js\LICENSE" />
+    <None Include="Client\node_modules\zone.js\LICENSE.wrapped" />
+    <None Include="Client\node_modules\zone.js\README.md" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <TypeScriptCompile Include="Client\node_modules\zone.js\lib\zone-impl.d.ts" />
+    <TypeScriptCompile Include="Client\node_modules\zone.js\lib\zone.api.extensions.d.ts" />
+    <TypeScriptCompile Include="Client\node_modules\zone.js\lib\zone.configurations.api.d.ts" />
+    <TypeScriptCompile Include="Client\node_modules\zone.js\lib\zone.d.ts" />
+    <TypeScriptCompile Include="Client\node_modules\zone.js\zone.d.ts" />
+  </ItemGroup>
+
+</Project>
